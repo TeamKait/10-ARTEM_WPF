@@ -1,0 +1,30 @@
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\bin\Debug\10.exe.config
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\bin\Debug\10.exe
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\bin\Debug\10.pdb
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\obj\Debug\10.csproj.AssemblyReference.cache
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\obj\Debug\10.exe
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\obj\Debug\10.pdb
+C:\Users\zadaa\Desktop\Artem-Prme\10\bin\Debug\10.exe.config
+C:\Users\zadaa\Desktop\Artem-Prme\10\bin\Debug\10.exe
+C:\Users\zadaa\Desktop\Artem-Prme\10\bin\Debug\10.pdb
+C:\Users\zadaa\Desktop\Artem-Prme\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\zadaa\Desktop\Artem-Prme\10\obj\Debug\10.csproj.SuggestedBindingRedirects.cache
+C:\Users\zadaa\Desktop\Artem-Prme\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\zadaa\Desktop\Artem-Prme\10\obj\Debug\10.exe
+C:\Users\zadaa\Desktop\Artem-Prme\10\obj\Debug\10.pdb
+C:\Users\zadaa\Desktop\10\bin\Debug\10.exe.config
+C:\Users\zadaa\Desktop\10\bin\Debug\10.exe
+C:\Users\zadaa\Desktop\10\bin\Debug\10.pdb
+C:\Users\zadaa\Desktop\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\zadaa\Desktop\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\zadaa\Desktop\10\obj\Debug\10.exe
+C:\Users\zadaa\Desktop\10\obj\Debug\10.pdb
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\bin\Debug\10.exe.config
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\bin\Debug\10.exe
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\bin\Debug\10.pdb
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\obj\Debug\10.csproj.AssemblyReference.cache
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\obj\Debug\10.csproj.SuggestedBindingRedirects.cache
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\obj\Debug\10.csproj.CoreCompileInputs.cache
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\obj\Debug\10.exe
+S:\ИСП211\Дерин Лющенко\Практика Учебная\Лющенко\10\Программа\obj\Debug\10.pdb

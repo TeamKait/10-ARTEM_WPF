@@ -1,0 +1,1 @@
+[LOG] <09:56:40>: System.Windows.Controls.TextBlock
